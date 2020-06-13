@@ -1,1 +1,1 @@
-# Extend-tab-in-the-BuddyPress-profile-page
+# Extend tab in the BuddyPress profile page
